@@ -1,6 +1,6 @@
 #include <stdio.h>
-#define WIDTH 100
-#define HEIGHT 60
+#define WIDTH 200
+#define HEIGHT 120
 
 void main()
 {
